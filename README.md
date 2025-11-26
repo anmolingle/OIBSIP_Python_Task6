@@ -23,7 +23,7 @@ A simple, desktop-based weather application built using Python's **Tkinter** for
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/anmolingle/OIBSIP_Python_Task6.git])
+git clone https://github.com/anmolingle/OIBSIP_Python_Task6.git
 cd OIBSIP_Python_Task6
 ````
 
