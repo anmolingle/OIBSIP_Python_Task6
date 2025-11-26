@@ -1,4 +1,0 @@
-tkinter
-Pillow
-requests
-geocoder
