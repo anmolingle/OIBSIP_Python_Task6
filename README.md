@@ -23,8 +23,8 @@ A simple, desktop-based weather application built using Python's **Tkinter** for
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/YourUsername/WeatherApp.git](https://github.com/YourUsername/WeatherApp.git)
-cd WeatherApp
+git clone [https://github.com/anmolingle/OIBSIP_Python_Task6.git])
+cd OIBSIP_Python_Task6
 ````
 
 ### 3\. Install Dependencies
