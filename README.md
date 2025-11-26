@@ -82,6 +82,6 @@ Contributions are welcome\! Feel free to open an issue or submit a pull request 
 
 ## 👨‍💻 Author
 
-  * **ANMOL INGLE** - [Link to your GitHub Profile]
+  * **ANMOL INGLE** - [(https://github.com/anmolingle)]
 
 <!-- end list -->
