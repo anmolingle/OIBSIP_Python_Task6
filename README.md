@@ -46,7 +46,7 @@ This application requires an **API Key** from OpenWeatherMap.
 3.  **Crucially**, you must replace the placeholder API key in the `Weather_App.py` file with your own:
 
     ```python
-    # Locate this line in BASIC_WETHER_APP.py and update it
+    # Locate this line in Weather_App.py and update it
     self.api_key = "YOUR_API_KEY"
     ```
 
@@ -84,3 +84,4 @@ Contributions are welcome\! Feel free to open an issue or submit a pull request 
   * **ANMOL INGLE** - https://github.com/anmolingle
 
 <!-- end list -->
+
