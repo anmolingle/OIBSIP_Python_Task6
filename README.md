@@ -43,11 +43,11 @@ This application requires an **API Key** from OpenWeatherMap.
 
 2.  Navigate to the API Keys tab to find or generate your key.
 
-3.  **Crucially**, you must replace the placeholder API key in the `BASIC_WETHER_APP.py` file with your own:
+3.  **Crucially**, you must replace the placeholder API key in the `Weather_App.py` file with your own:
 
     ```python
     # Locate this line in BASIC_WETHER_APP.py and update it
-    self.api_key = "YOUR_PERSONAL_API_KEY_HERE"
+    self.api_key = "YOUR_API_KEY"
     ```
 
 -----
@@ -57,7 +57,7 @@ This application requires an **API Key** from OpenWeatherMap.
 Execute the main Python script from your terminal:
 
 ```bash
-python BASIC_WETHER_APP.py
+python Weather_App.py
 ```
 
 -----
@@ -66,7 +66,7 @@ python BASIC_WETHER_APP.py
 
 ```
 WeatherApp/
-├── BASIC_WETHER_APP.py  # Main application logic and UI
+├── Weather_App.py  # Main application logic and UI
 ├── requirements.txt     # List of required Python packages
 └── README.md            # Project documentation (this file)
 ```
@@ -77,11 +77,6 @@ WeatherApp/
 
 Contributions are welcome\! Feel free to open an issue or submit a pull request if you find a bug or have a suggestion for improvement.
 
------
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file (if you choose to add one) for details.
 
 -----
 
@@ -90,28 +85,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
   * **ANMOL INGLE** - [Link to your GitHub Profile]
 
 <!-- end list -->
-
-````
-
----
-
-## ✅ Professional Steps Summary
-
-1.  **Create a Repository** on GitHub (e.g., `Simple-Python-Weather-App`).
-2.  **Create `requirements.txt`** and populate it with the dependencies.
-3.  **Create `README.md`** and copy the suggested content above.
-4.  **Create `.gitignore`** (Highly Recommended). A common Python one looks like this (you can find templates online):
-
-    ```gitignore
-    # .gitignore
-    __pycache__/
-    *.pyc
-    # Virtual environment
-    venv/
-    .env
-    ```
-
-5.  **Commit and Push** the four files (`BASIC_WETHER_APP.py`, `requirements.txt`, `README.md`, and `.gitignore`) to your new GitHub repository.
-
-Would you like me to draft a simple `LICENSE.md` (e.g., MIT License) for your project as well?
-````
