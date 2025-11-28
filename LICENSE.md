@@ -1,6 +1,3 @@
-## 📝 MIT License Content (`LICENSE`)
-
-```
 MIT License
 
 Copyright (c) 2025 ANMOL INGLE
